@@ -1,6 +1,6 @@
 # BUSCO Phylogenomics of Staphyliniformia 
 
-Author and maintainer: Zichen Zhou.
+Author and maintainer: Zichen Zhou (z.zhou@nhm.ac.uk) — Imperial College London / Natural History Museum, London.
 
 Code accompanying the manuscript:
 
