@@ -1,4 +1,4 @@
-# Staphyliniformia BUSCO Phylogenomics
+# BUSCO Phylogenomics of Staphyliniformia 
 
 Author and maintainer: Zichen Zhou.
 
