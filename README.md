@@ -1,6 +1,6 @@
-# BUSCO Phylogenomics of Staphyliniformia 
+# BUSCO Phylogenomics of Staphyliniformia
 
-Author and maintainer: Zichen Zhou (z.zhou@nhm.ac.uk) — Imperial College London / Natural History Museum, London.
+Author and maintainer: Zichen Zhou.
 
 Code accompanying the manuscript:
 
@@ -60,6 +60,7 @@ This repository contains the analysis code used for a BUSCO-based phylogenomic s
     ├── 5.2-code_topology_test_RFdistance.R
     ├── 5.3-code_astral_tree_concensus.R
     ├── 5.4-code_topology_test_AUtest.sh
+    ├── 5.4-standardize_AU_trees.R
     └── 5.5-code_node_support_comparison.R
 ```
 
