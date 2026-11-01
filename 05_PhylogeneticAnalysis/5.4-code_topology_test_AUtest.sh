@@ -4,8 +4,13 @@
 
 
 # 5.4.1 Compare topologies inferred using different methods
-
 cat *.treefile > trees4AU_FLT_taxa50.treels
+
+Rscript standardize_AU_trees.R \
+    -i trees4AU_FLT_taxa50.treels \
+    -m LG,GHOST,EXEHO,PMSF,Dayhoff6,ASTRAL \
+    -o FLT_taxa50/ \
+    -p FLT_taxa50
 
 iqtree2 \
     -s FcC_supermatrix_FLT_taxa50.fas \
