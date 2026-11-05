@@ -4,7 +4,7 @@ Author and maintainer: Zichen Zhou.
 
 Code accompanying the manuscript:
 
-> *Reconstructing a highly supported backbone tree for the rove beetles (Staphylinidae) using BUSCO loci.*  
+> *A phylogenomic backbone for the rove beetles (Staphylinidae).*  
 > Zichen Zhou & Alfried P. Vogler. Molecular Phylogenetics and Evolution (in review, 2026).
 
 This repository contains the analysis code used for a BUSCO-based phylogenomic study of Staphyliniformia, including sequence assembly, BUSCO locus extraction and alignment, non-ortholog detection, locus evaluation, supermatrix construction, phylogenetic inference, topology tests, and node-support/concordance analyses.
